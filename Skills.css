@@ -1,0 +1,30 @@
+body 
+{
+    background: rgb(161, 154, 223);
+}
+
+#Header a:hover
+{
+    color: white;
+}
+
+#bg-img
+{
+    background-image: url('184719.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 300px;
+
+}
+
+#Skills span
+{
+    padding: 10px 20px 20px 20px;
+}
+
+#Skills .hr
+{
+    border-width: 3px;
+    margin-top: 6px;
+
+}
